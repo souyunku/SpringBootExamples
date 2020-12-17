@@ -30,7 +30,7 @@
         <commons-lang3.version>3.4</commons-lang3.version>
         <fastjson.version>1.2.4</fastjson.version>
         <commons-beanutils.version>1.9.2</commons-beanutils.version>
-        <mysql.version>5.1.36</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
     </properties>
 
     <dependencies>
