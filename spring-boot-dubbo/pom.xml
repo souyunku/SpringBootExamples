@@ -30,7 +30,7 @@
         <fastjson_version>1.2.31</fastjson_version>
         <javassist_version>3.20.0-GA</javassist_version>
         <netty_version>3.2.5.Final</netty_version>
-        <zookeeper_version>3.4.9</zookeeper_version>
+        <zookeeper_version>3.4.14</zookeeper_version>
         <zkclient_version>0.2</zkclient_version>
         <curator_version>2.12.0</curator_version>
         <log4j_version>1.2.16</log4j_version>
